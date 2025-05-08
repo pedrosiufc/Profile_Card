@@ -1,3 +1,5 @@
+<!-- Descrição da tarefa: Esse exercício é uma ALTERNATIVA ao desafio do frontend mentor. Onde o principal desafio é criar um cartão que contenha as informações de perfil. Para ser aprimorado as habilidades de posicionamento de elementos usando flexbox.  -->
+
 # Frontend Mentor - Profile card component solution
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
